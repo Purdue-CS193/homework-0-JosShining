@@ -1,3 +1,16 @@
+# Joseph Shininger's First CS193 Homework
+
+In CS193 I am looking forward to the following:
+- Learning proper development tools
+- My awesome instructors
+- Becoming a better developer
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
